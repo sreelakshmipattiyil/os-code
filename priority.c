@@ -1,8 +1,3 @@
-																// RAHUL K R
-																// CSE B
-																// ROLL NO:40
-
-
 #include<stdio.h>
 #include<string.h>
 struct process
