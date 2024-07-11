@@ -1,8 +1,3 @@
-																// RAHUL K R
-																// CSE B
-																// ROLL NO:40
-
-
 #include<stdio.h>
 void main() {
     int available[10], allocated[30][30], need[30][30], max[30][30], m, n, finish[20], req[20], w[10], i, j, temp[10],p,k,f=0,count=0;
