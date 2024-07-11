@@ -1,9 +1,3 @@
-																// RAHUL K R
-																// CSE B
-																// ROLL NO:40
-																
-
-
 #include<stdio.h>
 #include<semaphore.h>
 #include<pthread.h>
