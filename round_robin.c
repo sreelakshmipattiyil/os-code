@@ -1,8 +1,3 @@
-																// RAHUL K R
-																// CSE B
-																// ROLL NO:40
-
-
 #include<stdio.h>
 #include<string.h>
 int q[50],f=-1,r=-1;
